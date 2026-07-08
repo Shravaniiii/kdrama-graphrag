@@ -3,7 +3,6 @@ venv/
 graphrag_input/.env
 __pycache__/
 *.pyc
-graphrag_input/output/
 graphrag_input/output_ollama_backup/
 graphrag_input/cache/
 graphrag_input/logs/
